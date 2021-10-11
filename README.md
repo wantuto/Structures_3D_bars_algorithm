@@ -1,4 +1,4 @@
-# Structures_3D_bars
+# Structures_3D_bars_algorithm
 General code solving stresses, displacements, safety parameters of 3D structures composed by bars not neglecting weight.
 
 In this code you would find a general code for solving aeronautical 3D structures such as a parachute, a delta wing, etc.
